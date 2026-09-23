@@ -1,4 +1,4 @@
-# Quantum Machine Learning — Lab Exercises
+# Quantum Machine Learning 
 ### MDS572B | MSc Data Science | CHRIST (Deemed to be University)
 
 ---
